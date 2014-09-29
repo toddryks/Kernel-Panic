@@ -6,7 +6,7 @@
 
 # Summary
 1. Part 1:  
-	Part 1 is a C program that uses exactly 20 more system calls than are used in an empty program.An empty C program has exactly 26 system calls. Our program, ./test, produces 46 system calls.
+	Part 1 is a C program that uses exactly 20 more system calls than are used in an empty program.An empty C program has exactly 26 system calls. Our program, tracetest, produces 46 system calls.
 
 2. Part 2:
 
